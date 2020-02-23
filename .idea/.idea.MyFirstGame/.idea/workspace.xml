@@ -8,12 +8,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/reactPressed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/reactPressed3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/reactPressed2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/gotoMainScreen.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/TurnFirstScreengray.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChangeCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/reactPressed.cs" />
+        <option value="$PROJECT_DIR$/Assets/reactPressed3.cs" />
+        <option value="$PROJECT_DIR$/Assets/reactPressed4.cs" />
+        <option value="$PROJECT_DIR$/Assets/reactPressed2.cs" />
+        <option value="$PROJECT_DIR$/Assets/changeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/updateTextColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/gotoMainScreen.cs" />
       </list>
     </option>
   </component>
@@ -28,6 +38,12 @@
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -54,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582411985656</updated>
       <workItem from="1582411988993" duration="1764000" />
-      <workItem from="1582413770460" duration="302000" />
+      <workItem from="1582413770460" duration="4235000" />
+      <workItem from="1582420775934" duration="3494000" />
+      <workItem from="1582432167922" duration="503000" />
+      <workItem from="1582476195448" duration="2645000" />
     </task>
     <servers />
   </component>
@@ -63,4 +82,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1582420828109">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582420828109" />
+  </component>
 </project>
